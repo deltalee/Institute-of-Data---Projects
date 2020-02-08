@@ -1,0 +1,233 @@
+{ "newyorktimes_business":{
+    "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "link": "https://www.nytimes.com/section/business"
+  },
+
+  "newyorktimes_science":{
+    "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+    "link": "https://www.nytimes.com/section/science"
+  },
+
+  "newyorktimes_technology":{
+    "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "link": "https://www.nytimes.com/section/technology"
+  },
+
+  "newyorktimes_politics":{
+    "link": "https://www.nytimes.com/section/politics"
+  },
+
+  "newyorktimes_world":{
+    "link": "https://www.nytimes.com/section/world"
+  },
+
+   "cnnmoney": {
+    "link": "https://edition.cnn.com/business"
+ },
+
+   "cnnpolitics": {
+    "link": "https://edition.cnn.com/politics"
+ },
+
+  "marketwatch_newsletters": {
+    "rss": "http://feeds.marketwatch.com/marketwatch/newslettersandresearch/",
+    "link": "https://www.marketwatch.com/topics/columns/newsletters-and-research/"
+  },
+
+  "cnbc_top_news": {
+    "rss": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "link": "https://www.cnbc.com/"
+ },
+
+  "theguardian": {
+    "rss": "https://www.theguardian.com/uk/rss",
+    "link": "https://www.theguardian.com/uk"
+ },
+
+ "marketwatch_newsletters": {
+    "rss": "http://feeds.marketwatch.com/marketwatch/newslettersandresearch/",
+    "link": "https://www.marketwatch.com/topics/columns/newsletters-and-research/"
+  },
+  "marketwatch_stories": {
+    "rss": "http://feeds.marketwatch.com/marketwatch/topstories/",
+    "link": "https://www.marketwatch.com/newsviewer/"
+  },
+
+  "cnbc_top_news": {
+    "rss": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    "link": "https://www.cnbc.com/"
+ },
+  "cnbc_investing":{
+    "rss": "https://www.cnbc.com/id/15839069/device/rss/rss.html",
+    "link": "https://www.cnbc.com/investing/"
+ },
+
+  "fox_business_latest_headlines": {
+    "rss": "http://feeds.foxnews.com/foxnews/latest/",
+    "link": "http://www.foxnews.com/"
+ },
+
+  "fox_business_opinion": {
+    "rss": "http://feeds.foxnews.com/foxnews/opinion/",
+    "link": "https://www.foxbusiness.com/category/opinion"
+ },
+
+  "entrepreneur_latest": {
+    "rss": "http://feeds.feedburner.com/entrepreneur/latest",
+    "link": "https://www.entrepreneur.com/"
+ },
+
+  "entrepreneur_marketing": {
+    "rss": "http://feeds.feedburner.com/entrepreneur/salesandmarketing",
+    "link": "https://www.entrepreneur.com/topic/marketing"
+ },
+
+ "reuters_money": {
+    "rss": "http://feeds.reuters.com/news/wealth/",
+    "link": "https://www.reuters.com/finance/personal-finance"
+ },
+
+ "reuters_science":{
+    "rss": "http://feeds.reuters.com/reuters/scienceNews",
+    "link": "https://www.reuters.com/news/science"
+ },
+
+ "sciencedaily":{
+    "rss": "https://www.sciencedaily.com/rss/all.xml",
+    "link": "https://www.sciencedaily.com/"
+ },
+
+ "economist_business": {
+    "rss": "https://www.economist.com/sections/business-finance/rss.xml",
+    "link": "https://www.economist.com/topics/business"
+ },
+
+ "economist_science_and_tech": {
+    "rss": "https://www.economist.com/sections/science-technology/rss.xml",
+    "link": "https://www.economist.com/topics/science"
+ },
+
+ "politifact-true": {
+    "link": "https://www.politifact.com/truth-o-meter/rulings/true/"
+  },
+
+ "fivethirtyeight_science":{
+     "rss": "https://fivethirtyeight.com/science/feed/",
+     "link": "https://fivethirtyeight.com/science/"
+ },
+
+ "fivethirtyeight_economics":{
+     "rss": "https://fivethirtyeight.com/economics/feed/",
+     "link": "https://fivethirtyeight.com/economics/"
+ },
+
+
+ "dailymash":{
+    "link": "https://www.thedailymash.co.uk/"
+ },
+
+ "dailymash_politics":{
+    "link": "https://www.thedailymash.co.uk/politics"
+ },
+
+ "nbpostgazette":{
+    "link": "http://nbpostgazette.com/"
+ },
+
+ "newsthump":{
+    "link": "https://newsthump.com/"
+ },
+
+ "newsthump_politics":{
+    "link": "https://newsthump.com/category/politics/"
+ },
+
+ "newsthump_world":{
+    "link": "https://newsthump.com/category/world/"
+ },
+
+ "newsthump_business":{
+    "link": "https://newsthump.com/category/business/"
+ },
+
+ "waterfordwhispernews":{
+    "link": "https://waterfordwhispersnews.com/category/worldnews/"
+ },
+
+ "waterfordwhispernews_politics":{
+    "link": "https://waterfordwhispersnews.com/category/politics/"
+ },
+
+ "clickhole":{
+    "link": "https://www.clickhole.com/"
+ },
+
+ "clickhole_news":{
+    "link": "https://www.clickhole.com/c/news"
+ },
+
+
+ "thepoke":{
+    "link": "https://www.thepoke.co.uk/"
+ },
+
+ "thepoke_news":{
+    "link": "https://www.thepoke.co.uk/category/news/"
+ },
+
+  "journalismday": {
+    "rss": "http://journalismday.com/feed/",
+    "link": "http://journalismday.com/"
+  },
+
+  "satprnews": {
+    "link": "https://satprnews.com/"
+  },
+
+  "insidertradings":{
+    "link": "http://insidertradings.org/"
+  },
+
+  "the onion":{
+    "link": "https://www.theonion.com/"
+  },
+
+  "the onion_politics":{
+    "link": "https://politics.theonion.com/"
+  },
+
+  "highlandmirror":{
+      "rss": "http://www.highlandmirror.com/feed/",
+      "link": "http://www.highlandmirror.com/"
+  },
+  "thefinancialanalyst": {
+    "rss": "https://theanalystfinancial.com/feed/",
+    "link": "https://theanalystfinancial.com/"
+  },
+
+  "reportagestuff": {
+    "rss": "http://reportagestuff.com/feed/",
+    "link": "http://reportagestuff.com/"
+  },
+
+  "huzlers": {
+    "link": "https://www.huzlers.com/"
+  },
+
+  "worldnewsdaily": {
+    "link": "https://worldnewsdailyreport.com/"
+  },
+
+  "100percentfedup": {
+    "link": "https://100percentfedup.com/"
+  },
+
+  "100percentfedup_politics": {
+    "link": "https://100percentfedup.com/category/politics/"
+  },
+
+  "politifact-false": {
+    "link": "https://www.politifact.com/truth-o-meter/rulings/pants-fire/"
+  }
+  
+}
